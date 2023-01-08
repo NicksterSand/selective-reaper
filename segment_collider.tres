@@ -1,0 +1,5 @@
+[gd_resource type="SegmentShape2D" format=3 uid="uid://c4srh4u2tgwa0"]
+
+[resource]
+a = Vector2(-20, -300)
+b = Vector2(-20, -300)
